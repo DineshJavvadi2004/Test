@@ -5,3 +5,10 @@ F:\FS\OOPS\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.csproj.Assembl
 F:\FS\OOPS\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.csproj.CoreCompileInputs.cache
 F:\FS\OOPS\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.exe
 F:\FS\OOPS\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.pdb
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.csproj.AssemblyReference.cache
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.csproj.CoreCompileInputs.cache
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.exe
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\obj\Debug\ConsoleAppOOPs.pdb
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\bin\Debug\ConsoleAppOOPs.exe.config
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\bin\Debug\ConsoleAppOOPs.exe
+F:\FS\OOPS\Test\ConsoleAppOOPs\ConsoleAppOOPs\bin\Debug\ConsoleAppOOPs.pdb

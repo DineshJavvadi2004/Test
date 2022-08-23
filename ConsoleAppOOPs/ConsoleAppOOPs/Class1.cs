@@ -32,7 +32,7 @@ namespace ConsoleAppOOPs
 
     class ExcSquare
     {
-        static void Main(string[] args)
+     /*   static void Main(string[] args)
         {
             Type s = new Type();
             s.Honk();
@@ -41,6 +41,6 @@ namespace ConsoleAppOOPs
             Console.WriteLine(s.brand + " " + s.Model);
             Console.WriteLine(s.type);
 
-        }
+        }*/
     }
 }
