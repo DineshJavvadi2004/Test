@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppOOPs
 {
-    class Abstraction
+   /* class Abstraction
     {
 
         static void Main()
@@ -16,7 +16,7 @@ namespace ConsoleAppOOPs
             obj.TurnOfCar();
         }
     }
-
+*/
     public class carr 
     {
         public void TurnOnCar()
